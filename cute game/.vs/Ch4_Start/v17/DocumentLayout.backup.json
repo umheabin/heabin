@@ -1,0 +1,749 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\unity3dbook-master\\chapter4\\ch4_start\\assets\\scripts\\controller\\followingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\followingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\attacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\attacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\monster\\babymonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster\\babymonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\monster\\monsterinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster\\monsterinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\monster\\monsterbaby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster\\monsterbaby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\monster\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\playerheal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerheal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\normaltarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\normaltarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\MonsterBaby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\MonsterBaby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\ResetPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\ResetPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Monster\\MonsterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\skilltarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\skilltarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Controller\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\controller\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\Player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\Player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\enemy\\enemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\PlayM4A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Monster\\PlayM4A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Monster\\MonsterHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\CharacterInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\CharacterInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assembly-CSharp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E59DF4-F1F6-5C81-5779-663B5F8209B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Prefabs\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Prefabs\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\cameraContolloer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Controller\\cameraContolloer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Controller\\FollowingCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Controller\\TouchPad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Player\\Effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Controller\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Controller\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Monster\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\DamageDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Monster\\DamageDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\SkillManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\SkillManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\CharacterMovement3D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Controller\\CharacterMovement3D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\Monsterdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Monster\\Monsterdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerAttackUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerAttackUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 47,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonsterBaby.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\MonsterBaby.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MonsterBaby.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\MonsterBaby.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MonsterBaby.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:55:25.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPosition.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\ResetPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\ResetPosition.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\ResetPosition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\ResetPosition.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:39:51.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MonsterController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\MonsterController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\MonsterController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:31:58.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\GameManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\GameManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:10:50.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PlayerAttackUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerAttackUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttackUp.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerAttackUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttackUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:09:52.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FollowingCamera.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "RelativeDocumentMoniker": "..\\Ch4_End\\Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "RelativeToolTip": "..\\Ch4_End\\Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:40:18.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TouchPad.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Controller\\TouchPad.cs",
+              "RelativeDocumentMoniker": "..\\Ch4_End\\Assets\\Scripts\\Controller\\TouchPad.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Controller\\TouchPad.cs",
+              "RelativeToolTip": "..\\Ch4_End\\Assets\\Scripts\\Controller\\TouchPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:46:19.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Player\\Effect.cs",
+              "RelativeDocumentMoniker": "..\\Ch4_End\\Assets\\Scripts\\Player\\Effect.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Player\\Effect.cs",
+              "RelativeToolTip": "..\\Ch4_End\\Assets\\Scripts\\Player\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:52:19.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "..\\Ch4_End\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_End\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "..\\Ch4_End\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:51:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Monsterdamage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\Monsterdamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\Monsterdamage.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\Monsterdamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\Monsterdamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:55:52.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CharacterMovement3D.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\CharacterMovement3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\CharacterMovement3D.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\CharacterMovement3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\CharacterMovement3D.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAywCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:59:23.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\PlayerMove.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:48:54.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Player1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\Player1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\Player1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:28:27.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:24:44.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:05:46.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PlayerSkill.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerSkill.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerSkill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerSkill.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:02:41.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\SkillManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SkillManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\SkillManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SkillManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:54:35.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:53:44.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayM4A.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\PlayM4A.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\PlayM4A.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\PlayM4A.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\PlayM4A.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:18:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DamageDealer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\DamageDealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\DamageDealer.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\DamageDealer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\DamageDealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:41:45.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CharacterInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\CharacterInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterInteraction.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\CharacterInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterInteraction.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:23:41.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\UIManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:13:08.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MonsterHealth.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\MonsterHealth.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\MonsterHealth.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:47:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\PlayerHealth.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:35:13.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:50:20.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "cameraContolloer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\cameraContolloer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\cameraContolloer.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\cameraContolloer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\cameraContolloer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:44:57.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Prefabs\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Prefabs\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Player\\PlayerMovement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:21:11.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:36:23.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attacka.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\Attacka.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Attacka.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\Attacka.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Attacka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:29:20.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonsterInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\MonsterInteraction.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\MonsterInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:34:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonsterBaby.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterBaby.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\MonsterBaby.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\MonsterBaby.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\MonsterBaby.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:20:55.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerHeal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerHeal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHeal.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerHeal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHeal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:01:38.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BabyMonster.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\BabyMonster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\BabyMonster.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\BabyMonster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\BabyMonster.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:00:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\Monster.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Monster\\Monster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\Monster.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:15:49.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Assembly-CSharp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assembly-CSharp.csproj",
+              "RelativeDocumentMoniker": "Assembly-CSharp.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assembly-CSharp.csproj",
+              "RelativeToolTip": "Assembly-CSharp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-21T17:27:53.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:52:24.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:13:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:40:14.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SkillTarget.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\SkillTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SkillTarget.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\SkillTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SkillTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:24:51.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NormalTarget.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\NormalTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\NormalTarget.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\NormalTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\NormalTarget.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:21:17.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnemyMove.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Enemy\\EnemyMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMove.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Enemy\\EnemyMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:57:32.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Effect.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Player\\Effect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:46:07.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:38:39.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:37:59.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FollowingCamera.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\FollowingCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:34:24.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TouchPad.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\TouchPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\TouchPad.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\Ch4_Start\\Assets\\Scripts\\Controller\\TouchPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\TouchPad.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:31:05.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
