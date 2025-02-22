@@ -4,6 +4,8 @@
 ![Cap 2025-02-22 17-09-40-401](https://github.com/user-attachments/assets/9242d696-eb07-479a-aa3e-06b833a99bb6)
 ![Cap 2025-02-22 17-10-10-032](https://github.com/user-attachments/assets/7da5eca9-720c-42be-965c-2431587fe5c4)
 
+유니티 2018년도로 만들고 있음.
+
 주인공 곰돌이 캐릭터가 인간 남자를 사랑하는데 인간이 되는 약을 찾아 인간이 되어서 사랑하는 사람에게 고백한다는 내용이 담긴 카페 경영 게임입니다.
 현재 구현한 부분
 
