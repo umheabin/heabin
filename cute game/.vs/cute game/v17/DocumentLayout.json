@@ -1,46 +1,47 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\assets\\scripts\\move\\bearmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Temp\\Compiled-Fireworks.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Fireworks.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\unity3dbook-master\\chapter4\\cute game\\cute game\\cute game\\assets\\scripts\\move\\bearmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\bearmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\unity3dbook-master\\chapter4\\cute game\\assets\\scripts\\crowdagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\assets\\scripts\\crowdagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crowdagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\assets\\scripts\\scenetransitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\assets\\scripts\\scenetransitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetransitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\assets\\scripts\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\assets\\scripts\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\assets\\scripts\\camerazoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\assets\\scripts\\camerazoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerazoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\RotateWithMouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RotateWithMouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\RotateWithMouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\assets\\scripts\\cmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\assets\\scripts\\cmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198BE43D-A7DC-E5BF-86C4-A13BEFEC36A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\BackgroundMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Audio\\BackgroundMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\BackgroundMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\PlayAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Audio\\PlayAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\PlayAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +51,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compiled-Fireworks.shader",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Temp\\Compiled-Fireworks.shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-Fireworks.shader",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Temp\\Compiled-Fireworks.shader",
+              "RelativeToolTip": "Temp\\Compiled-Fireworks.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-24T17:48:26.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -66,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DialogManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\DialogManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\DialogManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogManager.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\DialogManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\DialogManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\DialogManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,24 +92,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CrowdAgent.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\CrowdAgent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\CrowdAgent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CrowdAgent.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\CrowdAgent.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\CrowdAgent.cs",
               "RelativeToolTip": "Assets\\Scripts\\CrowdAgent.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAywDsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T09:48:58.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T09:48:58.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SceneTransitionManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\SceneTransitionManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\SceneTransitionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTransitionManager.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\SceneTransitionManager.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\SceneTransitionManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SceneTransitionManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Oscillator.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\Oscillator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\Oscillator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Oscillator.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\Oscillator.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\Oscillator.cs",
               "RelativeToolTip": "Assets\\Scripts\\Oscillator.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CameraZoom.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\CameraZoom.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\CameraZoom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraZoom.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\CameraZoom.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\CameraZoom.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraZoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,46 +140,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RotateWithMouse.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\RotateWithMouse.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateWithMouse.cs",
+              "RelativeDocumentMoniker": "..\\..\\Assets\\Scripts\\RotateWithMouse.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\RotateWithMouse.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RotateWithMouse.cs",
+              "RelativeToolTip": "..\\..\\Assets\\Scripts\\RotateWithMouse.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T04:24:31.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BackgroundMusic.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\BackgroundMusic.cs",
-              "RelativeDocumentMoniker": "Assets\\Audio\\BackgroundMusic.cs",
+              "RelativeDocumentMoniker": "..\\..\\Assets\\Audio\\BackgroundMusic.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\BackgroundMusic.cs",
-              "RelativeToolTip": "Assets\\Audio\\BackgroundMusic.cs",
+              "RelativeToolTip": "..\\..\\Assets\\Audio\\BackgroundMusic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T14:46:26.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PlayAudio.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\PlayAudio.cs",
-              "RelativeDocumentMoniker": "Assets\\Audio\\PlayAudio.cs",
+              "RelativeDocumentMoniker": "..\\..\\Assets\\Audio\\PlayAudio.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Audio\\PlayAudio.cs",
-              "RelativeToolTip": "Assets\\Audio\\PlayAudio.cs",
+              "RelativeToolTip": "..\\..\\Assets\\Audio\\PlayAudio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T14:33:43.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CMainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\CMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\CMainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CMainMenu.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\CMainMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\CMainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\CMainMenu.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAywEEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BearMovement.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\move\\BearMovement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\move\\BearMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\move\\BearMovement.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\Assets\\Scripts\\move\\BearMovement.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Unity3DBook-master\\Chapter4\\cute game\\cute game\\cute game\\Assets\\Scripts\\move\\BearMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\move\\BearMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
